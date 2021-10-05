@@ -1,6 +1,5 @@
 <div align=center>
 
-# Markdown Previewer
 
 ![img](https://user-images.githubusercontent.com/62619507/136062316-a1d5d8ef-0049-4838-b66e-b5404dd70052.PNG)
   
